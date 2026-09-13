@@ -174,4 +174,4 @@ Built for a hackathon. Use it, fork it, adapt it.
 
 ## Team 
 
-Built by team ICEMAN at
+Built by team ICEMAN 
